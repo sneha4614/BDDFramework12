@@ -1,1 +1,1 @@
-This BDDFramework12 project is to get hands on experience of creating a prohect from Scartch which include learnings of Selenium framework ,cucumber and Junit.
+This BDDFramework12  is to get hands on experience of creating a project frameowrk from Scratch which includes learnings of Selenium framework , cucumber and Junit.
