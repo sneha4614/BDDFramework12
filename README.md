@@ -4,10 +4,13 @@ This repository contains the automation framework for testing the SauceDemo webs
 
 ## Table of Contents
 
-1.Project Overview
-2.Preconditions
-3.Cloning the Repository
-4.Running the BDD Scenarios
+1. Project Overview
+
+2. Preconditions
+
+3. Cloning the Repository
+
+4. Running the BDD Scenarios
 
 ## Project Overview
 
